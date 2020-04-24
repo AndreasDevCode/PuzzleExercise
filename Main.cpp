@@ -47,7 +47,7 @@ int main()
  
     std::vector<int> a{ -2 ,2,1};
     std::vector<int> o{ 5,-6};
-    countApplesAndOranges(7,11,5,15,a,o);
+    //   countApplesAndOranges(7,11,5,15,a,o);
 
 
 
